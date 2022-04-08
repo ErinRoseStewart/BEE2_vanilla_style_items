@@ -24,7 +24,6 @@ BEE2.4 VSI is a UCP for BEE2.4 that adds some requested items that would fit wel
  - Overgrown
  - Old Aperture
  - Portal 1
- - Developer Graybox
 
 ## NOTE:
 Unless otherwise stated above, VSI won't be adding UCP style variants of items.
