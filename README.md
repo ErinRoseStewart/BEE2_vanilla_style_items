@@ -13,7 +13,7 @@ BEE2.4 VSI is a UCP for BEE2.4 that adds some requested items that would fit wel
  - [ ] https://github.com/BEEmod/BEE2-items/issues/928 \(Glass Cube Cage, linked since that issue has more details)
  - [ ] Wall and floor mounted cube droppers
  - [ ] Retractable glass/grating
- - [ ] Grate-topped angled panel \(Standard angled panel, topped with grating)
+ - [ ] Grate-topped angled panel \(Standard angled panel, topped with grating) \[started, unfinished}
  - [ ] Grate-topped pistons
  - [ ] Angled Piston \(Normal: Extend/Retract Piston, Start-Reversed: Raise/Lower Angle)
  - [ ] https://github.com/ErinRoseStewart/BEE2_vanilla_style_items/issues/1 Sliding Doors
