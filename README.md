@@ -5,7 +5,7 @@ BEE2.4 VSI is a UCP for BEE2.4 that adds some requested items that would fit wel
 
 
 ## Items:
- - [ ] Bomb Droppers \(see if Gel Dropper placement can be used)
+ - [ ] Bomb Droppers
  - [ ] Rotating Faith Plates
  - [ ] Angled Test Elements \(Laser, HEP, etc.)
  - [ ] 2x2 voxel centered funnel, faith plate, and accomp faith plate target if you can
